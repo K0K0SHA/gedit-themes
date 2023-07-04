@@ -6,6 +6,7 @@
 # Github repo: https://github.com/K0K0SHA/gedit-themes/
 # repo cloned from: https://github.com/mig/gedit-themes/
 # this install.sh works with both repos above
+# run from directory with styles.xml
 # be sure to check readme
 
 styles_dir="$HOME/.local/share/gedit/styles"
